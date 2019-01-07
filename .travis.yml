@@ -18,3 +18,4 @@ script:
 cache:
   directories:
   - "$HOME/.m2/repository"
+docker run hello-world
